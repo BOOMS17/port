@@ -5,5 +5,8 @@ header {
     padding: 128px 16px;
 }
 
-.headshot {align-items: end;}
+.headshot {align-items: end; width:40%;}
+
+h3{line-height: 120%;}
+.home {display:flex;}
 
