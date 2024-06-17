@@ -4,12 +4,13 @@ header {
     color: white;
     padding: 128px 16px;
 }
-
+body{background-color: black;}
 .headshot {
     align-items: end; 
     width:40%; 
     border-radius: 100%; 
     padding-top: 10%; padding-bottom: 10%;
+    padding-left: 5%; padding-right: 5%;
     
 }
 .home{background-color: black;}
@@ -17,8 +18,9 @@ header {
 .home {display:flex;}
 
 a {
-background-color: aqua; 
+color: aqua; 
 font: bold; 
-font-size: medium;
+font-size: large;
 }
 
+h3 {line-height: 150%;}
