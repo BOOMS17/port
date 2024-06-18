@@ -12,16 +12,18 @@ body{background-color: black;}
 
 .headshot {
     align-items: end; 
-    width: 35%; 
+    width: 55%; 
     border-radius: 100%; 
     
     ;
     
 }
 
-img {border: 5 px solid white;}
+img {border: 5px solid white;}
 
 .home {display:flex;}
+
+p {line-height: 200% ;}
 
 a {
 color: aqua; 
@@ -30,3 +32,5 @@ font-size: large;
 }
 
 h3 {line-height: 200%;}
+
+.aboutjudah{align-items: end;}
