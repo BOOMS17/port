@@ -31,6 +31,12 @@ font: bold;
 font-size: large;
 }
 
-h3 {line-height: 200%;}
 
-.aboutjudah{align-items: end;}
+
+h1 {line-height: 200%;}
+
+#aboutjudah{
+    display: grid;
+    place-items: center;
+
+}
