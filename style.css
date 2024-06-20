@@ -23,7 +23,10 @@ img {border: 5px solid white;}
 
 .home {display:flex;}
 
-p {line-height: 200% ;}
+p {line-height: 200% ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
 
 a {
 color: aqua; 
@@ -33,10 +36,9 @@ font-size: large;
 
 
 
-h1 {line-height: 200%;}
+h2 {line-height: 200%;}
 
 #aboutjudah{
-    display: grid;
-    place-items: center;
+    align-items: center;
 
 }
