@@ -15,7 +15,7 @@ body{background-color: black;}
 
 .headshot {
     align-items: end; 
-    width: 50%; 
+    width: 40%; 
     border-radius: 100%;
     margin: 2%;   
 }
@@ -51,6 +51,8 @@ a:hover{background-color: grey;}
 
 
 h2 {line-height: 200%;}
+.hometext{line-height: 250%;
+font-size: 25px;}
 
 #aboutjudah{
     align-items: center;
@@ -58,11 +60,13 @@ h2 {line-height: 200%;}
 
 }
 
-.contactmehead {text-align: center;}
+.contactmehead {text-align: center;
+font-size: 60px;}
 
 
 .gmail{width: 10%;
-border: none;}
+border: none;
+}
 
 
 .linkedin{width: 10%;
@@ -71,4 +75,16 @@ border: none;}
 .gmail:hover{opacity: 60%;}
 .linkedin:hover{opacity: 60%;}
 
+.dopename{font-size: 100px;} 
 
+.diva{
+    text-align: center;
+
+}
+li{
+    font-size: 35px;
+    line-height: 200%;
+}
+
+.interests{align-items: right;}
+.myhobbies{font-size: 80px;}
