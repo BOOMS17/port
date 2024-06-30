@@ -4,18 +4,23 @@ header {
     padding: 128px 16px;
 }
 
-.homepagebg {background-image: url('https://wallpaperaccess.com/full/4527419.jpg');}
+/*.homepagebg {background-image: url('https://wallpaperaccess.com/full/4527419.jpg');} */
 
-body{background-color: black;}
+.homepagebg {background-image: url('https://w.wallhaven.cc/full/kw/wallhaven-kw7pd7.png');}
+
+
+
+     
+body {background-color: black;}
 
 .section{
-    background-color: black;
+    
     align-items: center;
 }
 
 .headshot {
     align-items: end; 
-    width: 40%; 
+    width: 35%; 
     border-radius: 100%;
     margin: 2%;   
 }
