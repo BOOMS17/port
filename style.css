@@ -1,6 +1,91 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
 header {
-    background-color: black;
     color: white;
     padding: 128px 16px;
 }
+
+.homepagebg {background-image: url('https://wallpaperaccess.com/full/4527419.jpg');}
+
+body{background-color: black;}
+
+.section{
+    background-color: black;
+    align-items: center;
+}
+
+.headshot {
+    align-items: end; 
+    width: 40%; 
+    border-radius: 100%;
+    margin: 2%;   
+}
+
+img {border: 5px solid white;}
+
+.homediv {display:flex;}
+
+p {line-height: 200% ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 127%;
+}
+
+a {
+
+color: rgb(252, 7, 56); 
+font: serif; 
+font-size: 20px;
+box-sizing: border-box;
+padding-left: 6.4%;
+padding-right: 6.4%;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+}
+
+a:hover{background-color: grey;}
+
+
+
+h2 {line-height: 200%;}
+.hometext{line-height: 250%;
+font-size: 25px;}
+
+#aboutjudah{
+    align-items: center;
+    height: 85%;
+
+}
+
+.contactmehead {text-align: center;
+font-size: 60px;}
+
+
+.gmail{width: 10%;
+border: none;
+}
+
+
+.linkedin{width: 10%;
+border: none;}
+
+.gmail:hover{opacity: 60%;}
+.linkedin:hover{opacity: 60%;}
+
+.dopename{font-size: 100px;} 
+
+.diva{
+    text-align: center;
+
+}
+li{
+    font-size: 35px;
+    line-height: 200%;
+}
+
+.interests{align-items: right;}
+.myhobbies{font-size: 80px;}
+
