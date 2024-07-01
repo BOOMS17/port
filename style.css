@@ -45,7 +45,6 @@ padding-right: 6.4%;
 }
 
 a:link,
-a:visited,
 a:hover,
 a:active {
     text-decoration: none;
@@ -79,6 +78,8 @@ border: none;}
 
 .gmail:hover{opacity: 60%;}
 .linkedin:hover{opacity: 60%;}
+.mcq:hover{opacity: 60%;}
+.cyoa:hover{opacity: 60%;}
 
 .dopename{font-size: 100px;} 
 
@@ -93,4 +94,23 @@ li{
 
 .interests{align-items: right;}
 .myhobbies{font-size: 80px;}
+
+
+.mcq{width: 15%;
+height: 15%;}
+.cyoa{width: 15%;
+height: 15%;}
+
+.track:hover{opacity: 60%;}
+.gamble:hover{opacity: 60%;}
+
+.track{
+    width: 15%;
+    height: 15%;
+
+}
+.gamble{
+    height: 15%;
+    width: 15%;
+}
 
